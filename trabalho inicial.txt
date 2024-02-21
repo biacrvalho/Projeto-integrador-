@@ -19,4 +19,27 @@ Alguns exemplos incluem o tipo de dado "double", que viabiliza o armazenamento d
 O que é um servidor?
 
 R: Sistemas computacionais ou computadores que servem dispositivos por meio de redes, desempenhando funções como a execução de aplicações, prestação de serviços
-e armazenamento de dados, entre outros
+e armazenamento de dados, entre outros.
+
+PARTE 2
+
+1 – Encontre referências e comente: 
+
+a. A relação entre a LGPD e os Data Centers no Brasil.
+
+R: A estrutura do controlador do Data Center é o local onde rodam o sistema e a rede de dados é instalada e mantida. É este lugar que deve operar com base nos preceitos da LGPD. É importante frisar que apesar de não atuar diretamente no processamento de dados dos usuários e de não exercer a responsabilidade sobre tais informações, cabe aos Data Centers, garantir a proteção física dos ambientes para que a gestão das informações seja segura.
+
+b. Formatos de arquivos de dados proprietários e abertos.
+
+b.1 forneça exemplos de formatos 
+
+R: Planilha	.ods
+Apresentação	.odp
+Áudio	.mp3, .FLAC, .ogg
+Vídeos	.mkv, .webM, .mp4
+
+b.2 discuta as implicações relacionadas a dados públicos 
+
+R:
+
+
