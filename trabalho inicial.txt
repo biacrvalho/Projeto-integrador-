@@ -27,7 +27,10 @@ PARTE 2
 
 a. A relação entre a LGPD e os Data Centers no Brasil.
 
-R: A estrutura do controlador do Data Center é o local onde rodam o sistema e a rede de dados é instalada e mantida. É este lugar que deve operar com base nos preceitos da LGPD. É importante frisar que apesar de não atuar diretamente no processamento de dados dos usuários e de não exercer a responsabilidade sobre tais informações, cabe aos Data Centers, garantir a proteção física dos ambientes para que a gestão das informações seja segura.
+R: A estrutura do controlador do Data Center é o local onde rodam o sistema e a rede de dados é instalada e mantida.
+É este lugar que deve operar com base nos preceitos da LGPD. É importante frisar que apesar de não atuar diretamente no 
+processamento de dados dos usuários e de não exercer a responsabilidade sobre tais informações, cabe aos Data Centers, 
+garantir a proteção física dos ambientes para que a gestão das informações seja segura.
 
 b. Formatos de arquivos de dados proprietários e abertos.
 
