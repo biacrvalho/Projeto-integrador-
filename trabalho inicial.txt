@@ -51,9 +51,6 @@ b.2 discuta as implicações relacionadas a dados públicos
 R: Dados públicos são dados que não estão sujeitos a limitações válidas de privacidade, segurança ou controle de acesso, 
 reguladas por estatutos. São dados oriundos do Estado que não possuem privacidade. 
 
-1 – Explique as diferenças entre 3 linguagens de programação: 
 
-a. Tente fazer um código mínimo em cada uma delas; 
-b. Tente executar o seu código;
 
 
