@@ -5,11 +5,14 @@ criar páginas interativas e dinâmicas na internet. Java é Uma linguagem orien
 Geralmente, é a linguagem principal para o desenvolvimento de aplicativos Android.
 
 a. Tente fazer um código mínimo em cada uma delas; 
-print("Olá, mundo!")
-console.log("Olá, mundo!");
-public class OlaMundo 
-public static void main(String[] args) 
- System.out.println("Olá, mundo!");
+Python: print("Olá, mundo!")
+JavaScript: console.log("Olá, mundo!");
+Java: public class OlaMundo {
+    public static void main(String[] args) {
+        System.out.println("Olá, mundo!");
+    }
+}
+
 
 
 b. Tente executar o seu código;
