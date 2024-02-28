@@ -7,10 +7,9 @@ Geralmente, é a linguagem principal para o desenvolvimento de aplicativos Andro
 a. Tente fazer um código mínimo em cada uma delas; 
 Python: print("Olá, mundo!")
 JavaScript: console.log("Olá, mundo!");
-Java: public class OlaMundo {
-    public static void main(String[] args) {
-        System.out.println("Olá, mundo!");
-    }
-}
+PHP: <?php
+echo "Olá, mundo!";
+?>
+
 
 b. Tente executar o seu código;
