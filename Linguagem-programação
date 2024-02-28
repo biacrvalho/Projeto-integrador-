@@ -1,0 +1,15 @@
+1 – Explique as diferenças entre 3 linguagens de programação: 
+Python é amplamente usada em várias áreas, incluindo desenvolvimento web, ciência de dados, inteligência artificial e automação. 
+JavaScript é uma linguagem predominante no desenvolvimento web, essencial para
+criar páginas interativas e dinâmicas na internet. Java é Uma linguagem orientada a objetos, conhecida por sua portabilidade e robustez. 
+Geralmente, é a linguagem principal para o desenvolvimento de aplicativos Android.
+
+a. Tente fazer um código mínimo em cada uma delas; 
+print("Olá, mundo!")
+console.log("Olá, mundo!");
+public class OlaMundo 
+public static void main(String[] args) 
+ System.out.println("Olá, mundo!");
+
+
+b. Tente executar o seu código;
