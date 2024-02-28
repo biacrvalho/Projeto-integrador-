@@ -1,8 +1,9 @@
 1 – Explique as diferenças entre 3 linguagens de programação: 
-Python é amplamente usada em várias áreas, incluindo desenvolvimento web, ciência de dados, inteligência artificial e automação. 
+
+R: Python é amplamente usada em várias áreas, incluindo desenvolvimento web, ciência de dados, inteligência artificial e automação. 
 JavaScript é uma linguagem predominante no desenvolvimento web, essencial para
-criar páginas interativas e dinâmicas na internet. Java é Uma linguagem orientada a objetos, conhecida por sua portabilidade e robustez. 
-Geralmente, é a linguagem principal para o desenvolvimento de aplicativos Android.
+criar páginas interativas e dinâmicas na internet. PHP é uma linguagem de script do lado do servidor popular para o desenvolvimento web,
+usada principalmente para criar páginas dinâmicas.
 
 a. Tente fazer um código mínimo em cada uma delas; 
 Python: print("Olá, mundo!")
@@ -11,5 +12,3 @@ PHP: <?php
 echo "Olá, mundo!";
 ?>
 
-
-b. Tente executar o seu código;
