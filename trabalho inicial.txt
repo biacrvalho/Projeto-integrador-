@@ -34,6 +34,8 @@ garantir a proteção física dos ambientes para que a gestão das informações
 
 b. Formatos de arquivos de dados proprietários e abertos.
 
+R: Os formatos proprietários representam a privatização da memória digital. Arquivos salvos em formatos abertos são arquivos que seguem padrões abertos, cujas especificações são publicadas e podem ser conhecidas por todos.
+
 b.1 forneça exemplos de formatos 
 
 R: Planilha	.ods
@@ -43,6 +45,6 @@ Vídeos	.mkv, .webM, .mp4
 
 b.2 discuta as implicações relacionadas a dados públicos 
 
-R: Dados públicos são dados que não estão sujeitos a limitações válidas de privacidade, segurança ou controle de acesso, reguladas por estatutos. 
+R: Dados públicos são dados que não estão sujeitos a limitações válidas de privacidade, segurança ou controle de acesso, reguladas por estatutos. São dados oriundos do Estado que não possuem privacidade. 
 
 
