@@ -3,7 +3,8 @@ PARTE 1
 O que é um arquivo?
 
 R: Na programação, um arquivo refere-se a um agrupamento de dados armazenados que estão inter-relacionados de alguma maneira 
-e aderem a um formato digital específico, seja este em texto, imagem ou outros tipos. Esses dados são geralmente mantidos em um dispositivo de armazenamento externo.
+e aderem a um formato digital específico, seja este em texto, imagem ou outros tipos. Esses dados são geralmente mantidos 
+em um dispositivo de armazenamento externo.
 
 O que é um arquivo de texto?
 
@@ -14,7 +15,8 @@ São facilmente lidos e interpretados por qualquer pessoa, sendo considerados de
 O que é uma variável?
 
 R: É um método para preservar os valores que são manipulados pelos programas durante sua execução. 
-Alguns exemplos incluem o tipo de dado "double", que viabiliza o armazenamento de números decimais, o tipo "char", utilizado para armazenar um único caractere, entre outras opções.
+Alguns exemplos incluem o tipo de dado "double", que viabiliza o armazenamento de números decimais, 
+o tipo "char", utilizado para armazenar um único caractere, entre outras opções.
 
 O que é um servidor?
 
@@ -34,7 +36,8 @@ garantir a proteção física dos ambientes para que a gestão das informações
 
 b. Formatos de arquivos de dados proprietários e abertos.
 
-R: Os formatos proprietários representam a privatização da memória digital. Arquivos salvos em formatos abertos são arquivos que seguem padrões abertos, cujas especificações são publicadas e podem ser conhecidas por todos.
+R: Os formatos proprietários representam a privatização da memória digital. Arquivos salvos em formatos abertos
+são arquivos que seguem padrões abertos, cujas especificações são publicadas e podem ser conhecidas por todos.
 
 b.1 forneça exemplos de formatos 
 
@@ -45,6 +48,12 @@ Vídeos	.mkv, .webM, .mp4
 
 b.2 discuta as implicações relacionadas a dados públicos 
 
-R: Dados públicos são dados que não estão sujeitos a limitações válidas de privacidade, segurança ou controle de acesso, reguladas por estatutos. São dados oriundos do Estado que não possuem privacidade. 
+R: Dados públicos são dados que não estão sujeitos a limitações válidas de privacidade, segurança ou controle de acesso, 
+reguladas por estatutos. São dados oriundos do Estado que não possuem privacidade. 
+
+1 – Explique as diferenças entre 3 linguagens de programação: 
+
+a. Tente fazer um código mínimo em cada uma delas; 
+b. Tente executar o seu código;
 
 
