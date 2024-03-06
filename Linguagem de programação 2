@@ -1,0 +1,25 @@
+1 - Utilizando a linguagem de programação Python, implemente um ou mais códigos de exemplo dos seguintes elementos: uma estrutura de repetição; uma estrutura de tomada de decisão. 
+
+R: Estrutura de repetição
+
+# Usando um loop while para somar de 1 até 10
+soma = 0
+numero = 1
+
+while numero <= 10:
+    soma += numero
+    numero += 1
+
+print("A soma dos números de 1 até 10 é:", soma)
+
+R: Estrutura de tomada de decisão
+
+# Tomada de decisão em Python
+idade = int(input("Digite a sua idade: "))
+
+if idade < 18:
+    print("Você é menor de idade.")
+elif idade >= 18 and idade < 65:
+    print("Você é um adulto.")
+else:
+    print("Você é um idoso.")
