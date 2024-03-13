@@ -28,6 +28,6 @@ R: def imprimir_vogais(frase):
     print("Vogais na frase:", ''.join(vogais_na_frase))
 
 # Exemplo de uso:
-frase = "Olá, mundo! Esta é uma frase de exemplo."
+frase = "Praia"
 imprimir_vogais(frase)
 
