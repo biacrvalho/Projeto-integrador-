@@ -47,6 +47,26 @@ def questao4():
     fahreneit = (celsius * 9/5) + 32
     print("A temperatura em Fahrenheit é:", fahrenheit)
 
+# Exemplo de uso:
+questao4()
+
+def questao5():
+    nomes = []
+
+    while True:
+        nome = input("Digite um nome (ou 'sair' para encerrar): ")
+        if nome.lower() == 'sair':
+            break
+        nomes.append(nome)
+
+    print("\nNomes digitados:")
+    for nome in nomes:
+        print(nome)
+
+# Exemplo de uso:
+questao5()
+
+
         
 
 
